@@ -1,4 +1,11 @@
-## Hi there 👋
+Meu nome é lorena
+
+Estou estudando na Alura
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
 
 <!--
 **lol-ks/lol-ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
